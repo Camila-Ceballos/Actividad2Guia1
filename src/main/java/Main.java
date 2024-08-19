@@ -6,6 +6,7 @@ public class Main {
     // punto1();
     // punto2();
     // punto3escalera();
+
   }
 
   public static void punto1() {
